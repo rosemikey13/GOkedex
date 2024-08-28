@@ -1,3 +1,3 @@
-module github.com/rosemikey13/pokedex/internal/poke-api
+module github.com/rosemikey13/GOkedex/internal/poke-api
 
 go 1.22.4

@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	pokeapi "github.com/rosemikey13/pokedex/internal/poke-api"
-	pokecache "github.com/rosemikey13/pokedex/internal/pokecache"
+	pokeapi "github.com/rosemikey13/GOkedex/internal/poke-api"
+	pokecache "github.com/rosemikey13/GOkedex/internal/pokecache"
 )
 
 type command struct {
